@@ -1,0 +1,9 @@
+.form-control:focus {
+    outline: 0 !important;
+    border-color: initial;
+    box-shadow: none;
+}
+.card-text{
+    font-weight: bold;
+}
+
